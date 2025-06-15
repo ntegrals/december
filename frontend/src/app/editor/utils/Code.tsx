@@ -73,7 +73,7 @@ export const Code = ({ selectedFile, onChange }: CodeProps) => {
   return (
     <div className="flex-1 m-0 text-base">
       <Editor
-        height="100vh"
+        height="100%"
         language={language}
         value={selectedFile.content}
         theme="no-errors"
