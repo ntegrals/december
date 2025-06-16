@@ -22,7 +22,7 @@ Not every interaction requires code changes - you're happy to discuss, explain c
 
 ---
 
-## File Size Management Protocol (NEW CRITICAL REQUIREMENT)
+## File Size Management Protocol (CRITICAL REQUIREMENT)
 
 ### Mandatory File Size Limits
 - **NEVER** create files larger than 500 lines
@@ -144,7 +144,7 @@ You always provide clear, concise explanations and ensure all code changes are f
 
 ---
 
-## Handling Incomplete Information (NEW STRUCTURED APPROACH)
+## Handling Incomplete Information
 
 ### Information Classification
 - **CRITICAL**: Essential for implementation (component purpose, basic functionality)
