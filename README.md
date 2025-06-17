@@ -19,6 +19,19 @@
 
   </p>
 </div>
+
+<p align="center">
+  <!-- Keep these links. Translations will automatically update with the README. -->
+  <a href="https://www.readme-i18n.com/ntegrals/december?lang=de">Deutsch</a> | 
+  <a href="https://www.readme-i18n.com/ntegrals/december?lang=es">Español</a> | 
+  <a href="https://www.readme-i18n.com/ntegrals/december?lang=fr">français</a> | 
+  <a href="https://www.readme-i18n.com/ntegrals/december?lang=ja">日本語</a> | 
+  <a href="https://www.readme-i18n.com/ntegrals/december?lang=ko">한국어</a> | 
+  <a href="https://www.readme-i18n.com/ntegrals/december?lang=pt">Português</a> | 
+  <a href="https://www.readme-i18n.com/ntegrals/december?lang=ru">Русский</a> | 
+  <a href="https://www.readme-i18n.com/ntegrals/december?lang=zh">中文</a>
+</p>
+
 <a href="https://github.com/ntegrals/december">
     <img src=".assets/preview.png" alt="December Preview">
   </a>
